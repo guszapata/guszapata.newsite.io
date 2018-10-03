@@ -1,0 +1,36 @@
+.page{
+	height: 800px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background: url(karl-s-1078414-unsplash.jpg);
+	background-size: cover;
+}
+
+.textbox {
+	font-family: Helvetica;
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	background-color: rgba(128, 128, 128, 0.7);
+	padding: 10px 20px;
+	border-radius: 15px;
+	text-shadow: 0px 2px 4px gray;
+	box-shadow: 0px 2px 4px black;
+}
+
+.clear {
+	padding-top:60px;
+
+}
+
+.btn {
+	font-size: 18px;
+	border-radius: 15px;
+	box-shadow: 0px 2px 4px black;
+	text-shadow: 0px 2px 3px gray;
+	padding: 8px 14px;
+}
+
